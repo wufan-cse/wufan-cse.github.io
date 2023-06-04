@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-6 papers are coming.
+:star2: 6 papers are coming.
