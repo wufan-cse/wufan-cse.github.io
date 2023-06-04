@@ -8,9 +8,9 @@ profile:
   align: right
   image: mj_wufan.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>800 Dong Chuan Road,</p>
-    <p>Shanghai, P.R.China</p>
+  address: 
+<!--     <p>800 Dong Chuan Road,</p>
+    <p>Shanghai, P.R.China</p> -->
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
