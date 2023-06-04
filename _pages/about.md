@@ -9,9 +9,7 @@ profile:
   image: mj_wufan.jpg
   image_circular: false # crops the image to make it circular
   address: 
-<!--     <p>800 Dong Chuan Road,</p>
-    <p>Shanghai, P.R.China</p> -->
-
+  
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Thanks for stopping by!
 
-**Research: **
+Research:
 My interest lies in practical machine learning methods and their theoretical analysis, spanning multiple areas such as Out-of-Distribution Generalization, Trustworthy Machine Learning, and Generative models. 
 Specifically, I am interested in developing methods that enhance the capacity of learning predictive representations. 
 Moreover, I strongly believe that the potential of large deep learning models is yet to be fully explored.
