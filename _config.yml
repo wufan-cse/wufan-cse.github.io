@@ -129,10 +129,10 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
-  enabled: false
+  enabled: true
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -172,9 +172,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-#   projects:
-#     output: false
-#     permalink: /projects/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 announcements:
   enabled: true
@@ -322,7 +322,7 @@ external_links:
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: false # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800
