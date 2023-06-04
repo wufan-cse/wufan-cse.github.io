@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS master of <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>.
+subtitle: M.S. of <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>.
 
 profile:
   align: right
