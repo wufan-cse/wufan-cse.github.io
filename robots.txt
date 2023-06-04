@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wufan-cse.github.io/sitemap.xml
+Sitemap: https://wufan.github.io/sitemap.xml
