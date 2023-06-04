@@ -16,13 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Thanks for stopping by!
+Thanks for stopping by! :wave:
 
-Research:
-My interest lies in practical machine learning methods and their theoretical analysis, spanning multiple areas such as Out-of-Distribution Generalization, Trustworthy Machine Learning, and Generative models. 
-Specifically, I am interested in developing methods that enhance the capacity of learning predictive representations. 
-Moreover, I strongly believe that the potential of large deep learning models is yet to be fully explored.
-My ultimate goal is to create a unified, robust, and generalizable machine learning method that is cost-efficient and accessible to everyone. 
+<strong>Research:</strong>
+My interest lies in practical machine learning methods and their theoretical analysis, spanning multiple areas such as Out-of-Distribution Generalization, Trustworthy Machine Learning, and Generative models. Specifically, I am interested in developing methods that enhance the capacity of learning predictive representations. Moreover, I strongly believe that the potential of large deep learning models is yet to be fully explored. My ultimate goal is to create a unified, robust, and generalizable machine learning method that is cost-efficient and accessible to everyone.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
