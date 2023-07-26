@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:star2: 6 papers are coming.
+:star2: Start my own academic page.
