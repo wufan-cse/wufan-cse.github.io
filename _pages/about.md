@@ -6,7 +6,7 @@ subtitle: M.S. of <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong Universi
 
 profile:
   align: right
-  image: mj_wufan.jpg
+  image: wufan_cse.jpg
   image_circular: false # crops the image to make it circular
   address: 
   
