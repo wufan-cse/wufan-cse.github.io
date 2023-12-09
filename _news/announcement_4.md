@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:star2: G-NAS is accepted by AAAI2024.
+:star2: G-NAS is accepted by AAAI 2024.
