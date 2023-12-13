@@ -162,6 +162,10 @@
 
           <!-- Links/Buttons -->
           <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://github.com/wufan-cse/G-NAS" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+            <a href="/assets/pdf/gnas.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
           </div>
           
           <div class="badges">
@@ -169,7 +173,19 @@
               <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
           </div>
 
-          
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>In this paper, we focus on a realistic yet challenging task, Single Domain Generalization Object Detection (S-DGOD), where only one source domain’s data can be used for training object detectors, but have to generalize multiple distinct target domains. In S-DGOD, both high-capacity fitting and generalization abilities are needed due to the task’s complexity. Differentiable Neural Architecture Search (NAS) is known for its high capacity for complex data fitting and we propose to leverage Differentiable NAS to solve S-DGOD. However, it may confront severe over-fitting issues due to the feature imbalance phenomenon, where parameters optimized by gradient descent are biased to learn from the easy-to-learn features, which are usually non-causal and spuriously correlated to ground truth labels, such as the features of background in object detection data. Consequently, this leads to serious performance degradation, especially in generalizing to unseen target domains with huge domain gaps between the source domain and target domains. To address this issue, we propose the Generalizable loss (G-loss), which is an OoD-aware objective, preventing NAS from over-fitting by using gradient descent to optimize parameters not only on a subset of easy-to-learn features but also the remaining predictive features for generalization, and the overall framework is named G-NAS. Experimental results on the S-DGOD urban-scene datasets demonstrate that the proposed G-NAS achieves SOTA performance compared to baseline methods.</p>
+          </div>
+<!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">wu2023gnas</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{G-NAS: Generalizable Neural Architecture Search for Single Domain Generalization Object Detection}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Wu, Fan and Gao, Jinling and Lanqing, HONG and Wang, Xinbing and Zhou, Chenghu and Ye, Nanyang}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{The 38th Annual AAAI Conference on Artificial Intelligence}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
         </div>
       </div>
 </li>
@@ -339,7 +355,7 @@
 
     <!-- Footer -->    <footer class="sticky-bottom mt-5">
       <div class="container">
-        © Copyright 2023 Fan  Wu. Last updated: December 09, 2023.
+        © Copyright 2023 Fan  Wu. Last updated: December 13, 2023.
       </div>
     </footer>
 
