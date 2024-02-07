@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:star2: G-NAS is accepted by AAAI 2024.
+One first-authored paper G-NAS is accepted to AAAI 2024.
