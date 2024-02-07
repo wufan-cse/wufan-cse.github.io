@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:star2: Start my own academic page.
+Start my own academic page.
