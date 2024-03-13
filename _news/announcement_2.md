@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to Computers in Biology and Medicine.
+One paper is accepted to Computers in Biology and Medicine, IF=7.7.
