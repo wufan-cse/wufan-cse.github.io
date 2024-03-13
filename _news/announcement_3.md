@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by Knowledge-Based Systems.
+One paper is accepted by Knowledge-Based Systems, IF=8.8.
