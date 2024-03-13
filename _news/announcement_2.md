@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to Computers in Biology and Medicine (Up to 2023: **IF 7.7**).
+One paper is accepted to Computers in Biology and Medicine.
