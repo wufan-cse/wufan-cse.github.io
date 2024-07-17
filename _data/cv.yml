@@ -11,11 +11,16 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. in Computer Science
+      institution: Nanyang Technological University, Singapore
+      year: 2024 - present
+      description:
+        - Supervised by Prof.<a href="https://guosheng.github.io/">Guosheng Lin</a>.
     - title: M.S. in Computer Science
       institution: Shanghai Jiao Tong University, Shanghai, China
-      year: 2021 - 2023
+      year: 2021 - 2024
       description:
-        - Advised by Prof.<a href="https://ynysjtu.github.io">Nanyang Ye</a>.
+        - Supervised by Prof.<a href="https://nanyangye.github.io/">Nanyang Ye</a>.
     - title: B.S. in Automation
       institution: Sun Yat-sen University, Guangzhou, China
       year: 2017 - 2021
