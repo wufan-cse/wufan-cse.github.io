@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Embark on PhD journey at Nanyang Technological University (NTU).
+Embark on my Ph.D. journey at Nanyang Technological University (NTU).
