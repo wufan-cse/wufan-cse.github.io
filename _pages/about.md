@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. of <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>.
+subtitle: Ph.D. of <a href='https://www.ntu.edu.sg/'>Nanyang Technological University</a>.
 
 profile:
   align: right
