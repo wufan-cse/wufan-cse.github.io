@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by Knowledge-Based Systems, IF=8.8.
+One paper is accepted by Knowledge-Based Systems (IF=14.8, up to 2024).
