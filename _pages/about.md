@@ -6,7 +6,7 @@ subtitle: Ph.D. of <a href='https://www.ntu.edu.sg/'>Nanyang Technological Unive
 
 profile:
   align: right
-  image: wufan_cse.jpg
+  image: wufan_dog.jpg
   image_circular: false # crops the image to make it circular
   address: 
   
