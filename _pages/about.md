@@ -20,7 +20,8 @@ Thanks for stopping by! :wave:
 
 I am a PhD student at Nanyang Technological University, Singapore, under the supervision of Prof. Guosheng Lin. I received my M.S. degree from the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, China, where I was advised by Prof. Nanyang Ye. My previous research primarily focused on out-of-distribution (OoD) generalization problems in traditional computer vision tasks, such as object detection. Currently, my research focuses on generative models, including images, videos, and 4D data.
 
-<strong>Research interest: Computer vision, generative models, OoD generalization.</strong>
+<strong>Research interest:</strong> Computer vision, generative models, OoD generalization.
+
 <strong>Feel free to reach out at fan011@e.ntu.edu.sg to discuss potential collaboration.</strong>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
