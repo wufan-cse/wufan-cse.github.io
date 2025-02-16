@@ -18,11 +18,9 @@ social: true  # includes social icons at the bottom of the page
 
 Thanks for stopping by! :wave:
 
-<strong>Research:</strong>
-My interest lies in practical machine learning methods and their theoretical analysis, spanning multiple areas such as Out-of-Distribution Generalization, Trustworthy Machine Learning, and Generative models. Specifically, I am interested in developing methods that enhance the capacity of learning predictive representations. Moreover, I strongly believe that the potential of large deep learning models is yet to be fully explored. My ultimate goal is to create a unified, robust, and generalizable machine learning method that is cost-efficient and accessible to everyone.
+I am a PhD student at Nanyang Technological University, Singapore, under the supervision of Prof. Guosheng Lin. I received my M.S. degree from the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, China, where I was advised by Prof. Nanyang Ye. My previous research primarily focused on out-of-distribution (OoD) generalization problems in traditional computer vision tasks, such as object detection. Currently, my research focuses on generative models, including images, videos, and 4D data.
 
-<strong>I'm currently working on uncommon scenarios generation for 3/4D and video.</strong>
-
+<strong>Research interest: Computer vision, generative models, OoD generalization.</strong>
 <strong>Feel free to reach out at fan011@e.ntu.edu.sg to discuss potential collaboration.</strong>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
