@@ -266,7 +266,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 
 scholar:
 
-  last_name: [Wu]
+  last_name: Wu
+  last_name_equal: Wu*
   first_name: [Fan, F.]
 
   style: apa
